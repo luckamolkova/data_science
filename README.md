@@ -18,7 +18,7 @@ Pull requests with updates are welcome!
 **NLP**
 
 - Doc2Vec - document similarity search using gensim. [doc2vec.ipynb](doc2vec.ipynb)
-- TBD - text summarization using gensim
+- TBD - text summarization and keyword extraction using gensim. text_summarization.ipynb
 - TBD - locality sensitive hashing (LHS) using NearPy
 
 #### Development
