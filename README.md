@@ -18,11 +18,12 @@ Pull requests with updates are welcome!
 **NLP**
 
 - Doc2Vec - document similarity search using gensim. [doc2vec.ipynb](doc2vec.ipynb)
-- TBD - text summarization and keyword extraction using gensim. text_summarization.ipynb
+- Text summarization - text summarization and keyword extraction using gensim. [text_summarization.ipynb](text_summarization.ipynb)
 - TBD - locality sensitive hashing (LHS) using NearPy
 
 #### Development
 
+- Pipeline - pipeline, feature union, grid search. [pipeline.ipynb](pipeline.ipynb)
 - Map Reduce - Hadoop, Spark. [map_reduce.ipynb](map_reduce.ipynb)
 - Scraping and MongoDB - requests, BeautifulSoup, pymongo. [scraping_mongo.ipynb](scraping_mongo.ipynb)
 - AWS Deployment - setting up EC2 instance with PostgreSQL on it, running Flask app. [aws.md](aws.md)
